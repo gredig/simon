@@ -24,6 +24,8 @@
 
 5. Add a button that will reset the sequence (preferably without reloading the page)
 
+
+
 * Bonus *
 
 6. Create a button that will generate a random 5 square sequence
