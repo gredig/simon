@@ -1,20 +1,8 @@
+https://gist.github.com/gredig/b5d9d3029f24bd6144e7a02a78c76b89
+
 # Colors 
 
-1. Create 4 squares of equal size that take up half the width of the screen in total and give them colors:
-
-	+---------------+--------------+
-	|               |              |
-	|               |              |
-	|     red       |    yellow    |
-	|               |              |
-	|               |              |
-	+---------------+--------------+
-	|               |              |
-	|               |              |
-	|     blue      |    green     |
-	|               |              |
-	|               |              |
-	+---------------+--------------+
+1. Create 4 squares of equal size that take up half the width of the screen in total and give them colors.
 
 2. Make it so clicking on a square will briefly lighten the color (and then return to the original)
 
